@@ -6,15 +6,14 @@ This is a graphical user intercase for the game of sudoku where a $user can play
 [Software Demo Video WIP](http://youtube.link.goes.here)
 
 # Development Environment
-
+VS Code enviroment
 
 # Useful Websites
 
 * [youdosudoku](https://www.youdosudoku.com/)
-* [Web Site Name](http://url.link.goes.here)
+* [tkinter Documentaiton](https://docs.python.org/3/library/tkinter.ttk.html#)
 
 # Future Work
 
-* Item 1
-* Item 2
-* Item 3
+* is correct solution
+* Box Borders
